@@ -61,11 +61,28 @@ qr-portal/
 
 ---
 
-## Contributing
+##  Contributing
 
-Contributions and suggestions are welcome. Please open an issue or PR with proposed changes or improvements.
+Contributions, ideas, and forks are welcome! Please open an issue to discuss major changes or submit a PR for enhancements, bug fixes, or documentation improvements.
 
 ---
+
+##  About the Developer
+
+Hi, I'm **Harsh Pandey** – a self-driven web developer building practical side projects while working full-time. I share my learning journey and ship products like Bike Expense Tracker to help everyday users stay organised.
+
+---
+
+## Connect With Me
+
+-  Instagram: [@sasta_developer0143](https://www.instagram.com/sasta_developer0143)
+-  Personal Instagram: [@lucifer__1430](https://www.instagram.com/lucifer__1430)
+-  Portfolio: [Harsh Pandey](https://lucifer01430.github.io/Portfolio/)
+-  Email: harshpandeylucifer@gmail.com
+
+---
+
+> ⭐ **If this project helps you, please consider starring the repository!**
 
 ## Notes
 
